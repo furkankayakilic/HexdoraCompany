@@ -62,29 +62,6 @@
 - **Figma / Adobe XD** – Arayüz tasarımı
 - **C# / Node.js / REST API** – Sunucu tarafı yazılım
 
----
-
-## 📁 Dosya Yapısı (Örnek)
-
-```
-/assets
-  /logo
-  /icons
-  /illustrations
-
-/design
-  - figma-dosyasi.fig
-  - kurumsal-renkler.md
-
-/src
-  /backend
-  /frontend
-  /mobile
-
-/docs
-  - kurumsal-kimlik.md
-  - proje-akis-semasi.png
-```
 
 ---
 
