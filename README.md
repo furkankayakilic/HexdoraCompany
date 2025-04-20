@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/tasarım/Hexdora.jpg" alt="Hexdora Logo" width="150"/>
+  <img src="docs/kurumsal/Hexdora.jpg" alt="Hexdora Logo" width="150"/>
 </p>
 
 # 🌍 Dünya Kaşifi: AR Tabanlı Eğitici Mobil Uygulama
