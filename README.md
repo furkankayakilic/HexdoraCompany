@@ -1,61 +1,126 @@
-# 🌍 Dünya Kaşifi
+<p align="center">
+  <img src="docs/tasarım/Hexdora.jpg" alt="Hexdora Logo" width="150"/>
+</p>
 
-**Dünya Kaşifi**, çocuklara yönelik eğitsel bir keşif oyunudur. Bu projede çocuklar, dünya ülkelerini hem **coğrafi** hem de **kültürel** açıdan tanırken aynı zamanda temel **dil becerileri** kazanırlar. Proje, interaktif aktiviteler, mini oyunlar ve artırılmış gerçeklik (AR) destekli deneyimler içerir.
+# 🌍 Dünya Kaşifi: AR Tabanlı Eğitici Mobil Uygulama
 
----
-
-## 🎯 Proje Hedefleri
-
-- Çocuklara dünya ülkeleri hakkında bilgi kazandırmak
-- Kültürel çeşitlilik ve farkındalık oluşturmak
-- Temel dil öğrenimini oyunlaştırmak
-- AR teknolojisi ile etkileşimli öğrenme sağlamak
+**Geliştirici:** Hexdora Teknoloji ve Yazılım A.Ş.
 
 ---
 
-## 📂 İçerik Yapısı
+## 📱 Proje Tanıtımı
 
-Her ülke için aşağıdaki başlıklar üzerinden bilgi sunulmaktadır:
-
-- **Genel Bilgiler:** Başkent, nüfus, resmi dil
-- **Coğrafya:** Önemli şehirler, doğal güzellikler, iklim
-- **Kültür:** Geleneksel kıyafetler, yemek kültürü, festivaller
-- **Dil:** Temel kelimeler, selamlaşmalar, sayılar
+**Dünya Kaşifi**, çocukların dünya üzerindeki farklı ülkeleri, kültürleri, dilleri ve yapıları keşfetmesini sağlayan, artırılmış gerçeklik (AR) tabanlı bir mobil eğitim oyunudur. Oyun, çocuklara eğlenerek öğrenme alışkanlığı kazandırmayı ve global vatandaşlık bilincini geliştirmeyi hedefler.
 
 ---
 
-## 🎮 Öğrenme Aktiviteleri
+## 🌍 Uygulama Platformları
 
-| Aktivite Türü     | Açıklama |
-|------------------|----------|
-| 🗺️ Keşif Görevleri | Harita üzerinde konum bulma, coğrafi özellikleri tanıma |
-| 🧠 Mini Oyunlar     | Kelime eşleştirme, bulmaca çözme, hafıza kartları |
-| 🧭 AR Deneyimleri   | 3D modeller, sanal turlar, interaktif haritalar |
+- **Android:** 6.0 ve üzeri (ARCore destekli)
+- **iOS:** 12.0 ve üzeri (ARKit destekli)
 
 ---
 
-## 🚸 Hedef Kitle ve Seviyeler
+## ⭐ Öne Çıkan Özellikler
 
-Projede 3 seviyeye uygun içerikler yer alır:
+### 📍 Artırılmış Gerçeklik Deneyimleri
 
-- **Başlangıç:** Temel bilgiler ve kelimeler
-- **Orta:** Detaylı kültürel içerikler, konuşma kalıpları
-- **İleri:** Analizler, deyimler, atasözleri
+- Gerçek dünya üzerinde 3D dünya haritası
+- Ünlü yapılar: Eyfel Kulesi, Big Ben, Özgürlük Heykeli
+- AR ile gerçek zamanlı etkileşim
+
+### 👤 Kişiselleştirme ve Avatar Sistemi
+
+- Kaşif karakteri oluşturma
+- Sihirli ekipmanlar: Pusula, dürbün, tercüman cihazı
+- Kültürel kostüm koleksiyonu
+
+### 🎮 Eğitici Mini Oyunlar
+
+- Dil öğrenimi: Temel kelimeler ve ifadeler
+- Kültür aktiviteleri: Yemekler, müzik, dans
+- Coğrafya oyunları: Bayrak, başkent eşleştirme
+
+### 🧭 Oyun Akışı
+
+1. **Kaşif Akademisi** (avatar oluşturma, araç seçimi)
+2. **Uçuş Rotası** (3D harita üzerinde ilerleme)
+3. **Ülke Görevleri** (coğrafi, kültürel, dil tabanlı görevler)
+4. **Mini Oyunlar ve AR Deneyimler**
+5. **Kaşif Pasaportu ve Ödüller**
+6. **Macera Sınavı ve Yeni Rota**
 
 ---
 
-## 📊 Değerlendirme Sistemi
+## 🧑‍💻 Geliştirici Ekip (Hexdora)
 
-- Görev tamamlama yüzdesi
-- Rozet kazanımı
-- Süre ve doğruluk oranı
+| İsim                 | Rol                    | Sorumluluklar                               |
+| -------------------- | ---------------------- | ------------------------------------------- |
+| Furkan Kaya Kılıç    | Scrum Master / Backend | API, veritabanı, görev sistemi              |
+| Mustafa Erdem Çelik  | AR & Mobil Geliştirici | Unity, AR sahneleri, mobil uygulama         |
+| Gülendam Nida Çevlik | UI/UX & İçerik         | Tasarımlar, bilgi kartları, görev kurguları |
+
+---
+
+## 🔧 Teknolojiler
+
+- **Oyun Motoru:** Unity 2023.1 LTS
+- **AR Teknolojisi:** ARKit, ARCore
+- **Backend:** Firebase (Auth, Realtime Database)
+- **3D Modelleme:** Blender, Maya
+- **UI/UX:** Figma, Adobe XD
+- **Diller:** C#, JavaScript
+- **CI/CD:** GitHub Actions
 
 ---
 
-## ♻️ İçerik Güncelleme Planı
+## 🚀 Kurulum ve Geliştirme
 
-- Aylık içerik eklemeleri
-- Kullanıcı geri bildirimlerine göre güncellemeler
-- Sezonluk etkinlik içerikleri
+### Gereksinimler
+
+- Unity 2023.1 veya üzeri
+- Android Studio veya Xcode
+- Git
+- Node.js (web arayüzü için)
+
+### Kurulum Adımları
+
+```bash
+git clone https://github.com/hexdora/dunya-kasifi.git
+cd dunya-kasifi
+```
+
+Unity üzerinden `src/` klasörü açılır. Web arayüzü için:
+
+```bash
+cd web
+npm install
+npm run dev
+```
 
 ---
+
+## 📅 Yol Haritası
+
+- Q1 2025: Proje Planlama & Konsept Geliştirme
+- Q2 2025: Prototipleme & UI/UX Tasarımları
+- Q3 2025: AR ve Mini Oyun Geliştirme
+- Q4 2025: Beta Test Süreci
+- Q1 2026: V1 Yayını
+- Q2 2026: Yeni Ülke Paketleri
+- Q3 2026: Çoklu Oyunculu Özellikler
+
+---
+
+## 📄 Lisans
+
+© 2025 Hexdora Teknoloji A.Ş. Tüm hakları saklıdır.  
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+---
+
+## 📞 İletişim
+
+- E-posta: iletisim@hexdora.com
+- Web Sitesi: [www.hexdora.com](https://www.hexdora.com)
+- LinkedIn: Hexdora Teknoloji
