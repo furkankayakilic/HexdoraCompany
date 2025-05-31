@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" viewBox="0 0 1000 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h1000v500H0z" fill="#E8F5FE"/>
+  <path d="M150 100c20 0 40 10 50 30s20 40 30 50 30 20 40 30 20 30 30 40 30 20 40 30 20 30 30 40" stroke="#4FACFE" stroke-width="2" fill="none"/>
+  <path d="M400 150c20 0 40 10 50 30s20 40 30 50 30 20 40 30 20 30 30 40 30 20 40 30 20 30 30 40" stroke="#4FACFE" stroke-width="2" fill="none"/>
+  <path d="M600 200c20 0 40 10 50 30s20 40 30 50 30 20 40 30 20 30 30 40" stroke="#4FACFE" stroke-width="2" fill="none"/>
+  <path d="M800 250c20 0 40 10 50 30s20 40 30 50" stroke="#4FACFE" stroke-width="2" fill="none"/>
+  
+  <!-- Kıtalar -->
+  <path d="M200 150c50-20 100-10 150 0s100 20 150 30 100 20 150 30 100 20 150 30" fill="#A8E6CF"/>
+  <path d="M300 250c40-10 80-5 120 0s80 10 120 15 80 10 120 15" fill="#A8E6CF"/>
+  <path d="M400 350c30-5 60-2.5 90 0s60 5 90 7.5 60 5 90 7.5" fill="#A8E6CF"/>
+</svg> 

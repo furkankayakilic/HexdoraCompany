@@ -1,0 +1,79 @@
+{
+  "destinations": [
+    {
+      "id": "france",
+      "name": "Fransa",
+      "continent": "Europe",
+      "capital": "Paris",
+      "landmarks": ["Eiffel Tower", "Louvre Museum", "Arc de Triomphe"],
+      "facts": [
+        "French is the official language.",
+        "France is famous for its cheeses, wines, and pastries.",
+        "The Eiffel Tower was built for the 1889 World's Fair."
+      ],
+      "coordinates": { "latitude": 48.8566, "longitude": 2.3522 },
+      "badge": "French Explorer",
+      "greetings": { "hello": "Bonjour", "goodbye": "Au revoir", "thankyou": "Merci" }
+    },
+    {
+      "id": "italy",
+      "name": "İtalya",
+      "continent": "Europe",
+      "capital": "Rome",
+      "landmarks": ["Colosseum", "Leaning Tower of Pisa", "Venice Canals"],
+      "facts": [
+        "Italian is the official language.",
+        "Italy is famous for pizza and pasta.",
+        "The Colosseum could hold up to 80,000 spectators."
+      ],
+      "coordinates": { "latitude": 41.9028, "longitude": 12.4964 },
+      "badge": "Italian Explorer",
+      "greetings": { "hello": "Ciao", "goodbye": "Arrivederci", "thankyou": "Grazie" }
+    },
+    {
+      "id": "egypt",
+      "name": "Mısır",
+      "continent": "Africa",
+      "capital": "Cairo",
+      "landmarks": ["Pyramids of Giza", "Sphinx", "River Nile"],
+      "facts": [
+        "Arabic is the official language.",
+        "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.",
+        "The Nile is the longest river in the world."
+      ],
+      "coordinates": { "latitude": 30.0444, "longitude": 31.2357 },
+      "badge": "Egyptian Explorer",
+      "greetings": { "hello": "Marhaban", "goodbye": "Ma'a salama", "thankyou": "Shukran" }
+    },
+    {
+      "id": "japan",
+      "name": "Japonya",
+      "continent": "Asia",
+      "capital": "Tokyo",
+      "landmarks": ["Mount Fuji", "Tokyo Tower", "Kyoto Temples"],
+      "facts": [
+        "Japanese is the official language.",
+        "Japan is known for sushi, anime and manga.",
+        "Japan has over 200 volcanoes."
+      ],
+      "coordinates": { "latitude": 35.6762, "longitude": 139.6503 },
+      "badge": "Japanese Explorer",
+      "greetings": { "hello": "Konnichiwa", "goodbye": "Sayonara", "thankyou": "Arigato" }
+    },
+    {
+      "id": "brazil",
+      "name": "Brezilya",
+      "continent": "South America",
+      "capital": "Brasília",
+      "landmarks": ["Christ the Redeemer", "Amazon Rainforest", "Iguazu Falls"],
+      "facts": [
+        "Portuguese is the official language.",
+        "Brazil has the largest rainforest in the world: the Amazon.",
+        "The Rio Carnival is the biggest carnival in the world."
+      ],
+      "coordinates": { "latitude": -22.9068, "longitude": -43.1729 },
+      "badge": "Brazilian Explorer",
+      "greetings": { "hello": "Olá", "goodbye": "Adeus", "thankyou": "Obrigado" }
+    }
+  ]
+}
