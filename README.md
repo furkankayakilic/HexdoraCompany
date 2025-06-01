@@ -21,6 +21,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1XuCgOhzqyGCu2tDhQYn1n7Tci7isBWuY/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Uygulama%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="Uygulama Videosu İzle Butonu"/>
+  </a>
+</p>
+
+
+
 # 🌍 Dünya Kaşifi: React Native Tabanlı AR Eğitici Uygulama
 
 **Geliştirici:** Hexdora Teknoloji ve Yazılım A.Ş.
