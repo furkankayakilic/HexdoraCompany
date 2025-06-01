@@ -15,7 +15,7 @@
   </a>
 </p>
 
-# 🌍 Dünya Kaşifi: AR Tabanlı Eğitici Mobil Uygulama
+# 🌍 Dünya Kaşifi: React Native Tabanlı AR Eğitici Uygulama
 
 **Geliştirici:** Hexdora Teknoloji ve Yazılım A.Ş.
 
@@ -23,105 +23,102 @@
 
 ## 📱 Proje Tanıtımı
 
-**Dünya Kaşifi**, çocukların dünya üzerindeki farklı ülkeleri, kültürleri, dilleri ve yapıları keşfetmesini sağlayan, artırılmış gerçeklik (AR) tabanlı bir mobil eğitim oyunudur. Oyun, çocuklara eğlenerek öğrenme alışkanlığı kazandırmayı ve global vatandaşlık bilincini geliştirmeyi hedefler.
+**Dünya Kaşifi**, React Native ile geliştirilmiş, çocukların dünya üzerindeki kültürleri, dilleri ve yapıları artırılmış gerçeklik (AR) ile keşfetmesini sağlayan eğitici bir mobil oyun uygulamasıdır.
 
 ---
 
 ## 🌍 Uygulama Platformları
 
-- **Android:** 6.0 ve üzeri (ARCore destekli)
-- **iOS:** 12.0 ve üzeri (ARKit destekli)
+- **Android:** Android 7.0+ (ARCore destekli)
+- **iOS:** iOS 11+ (ARKit destekli)
+
+> ⚠️ Uygulama, cihazın AR desteği olması koşuluyla sorunsuz çalışır. Destek için: [https://developers.google.com/ar/devices](https://developers.google.com/ar/devices)
 
 ---
 
 ## ⭐ Öne Çıkan Özellikler
 
-### 📍 Artırılmış Gerçeklik Deneyimleri
+### 🧠 Artırılmış Gerçeklik Deneyimleri (ViroReact)
 
-- Gerçek dünya üzerinde 3D dünya haritası
+- 3D dünya haritası ve ülke simgeleri
 - Ünlü yapılar: Eyfel Kulesi, Big Ben, Özgürlük Heykeli
-- AR ile gerçek zamanlı etkileşim
+- Kamera üzerinden etkileşimli AR görevler
 
-### 👤 Kişiselleştirme ve Avatar Sistemi
+### 🎭 Avatar ve Kişiselleştirme
 
-- Kaşif karakteri oluşturma
-- Sihirli ekipmanlar: Pusula, dürbün, tercüman cihazı
-- Kültürel kostüm koleksiyonu
+- Kaşif karakter oluşturma
+- Sihirli araçlar: Pusula, dürbün, tercüman
 
 ### 🎮 Eğitici Mini Oyunlar
 
-- Dil öğrenimi: Temel kelimeler ve ifadeler
-- Kültür aktiviteleri: Yemekler, müzik, dans
-- Coğrafya oyunları: Bayrak, başkent eşleştirme
+- Dil öğrenme: Sesli kartlar, temel kelimeler
+- Bilgi yarışması: Ülke kültürleriyle ilgili sorular
+- Boyama: Dijital boyama deneyimi
+- Matematik oyunları: Temel işlemler ve eğlenceli sorular
 
-### 🧭 Oyun Akışı
+### 🗺️ Oyun Akışı
 
-1. **Kaşif Akademisi** (avatar oluşturma, araç seçimi)
-2. **Uçuş Rotası** (3D harita üzerinde ilerleme)
-3. **Ülke Görevleri** (coğrafi, kültürel, dil tabanlı görevler)
-4. **Mini Oyunlar ve AR Deneyimler**
-5. **Kaşif Pasaportu ve Ödüller**
-6. **Macera Sınavı ve Yeni Rota**
+1. **Kaşif Akademisi**: Profil, avatar, araç seçimi
+2. **Uçuş Haritası**: 3D dünya üzerinde ülke seçimi
+3. **Görev Sistemi**: Kültürel & dil tabanlı görevler
+4. **AR Etkileşimleri**: Kamera üstünden görev deneyimi
+5. **Kaşif Pasaportu**: Ülke mühürleri ve ödüller
 
 ---
 
 ## 🧑‍💻 Geliştirici Ekip (Hexdora)
 
-| İsim                 | Rol                    | Sorumluluklar                               |
-| -------------------- | ---------------------- | ------------------------------------------- |
-| Furkan Kaya Kılıç    | Scrum Master / Backend | API, veritabanı, görev sistemi              |
-| Mustafa Erdem Çelik  | AR & Mobil Geliştirici | Unity, AR sahneleri, mobil uygulama         |
-| Gülendam Nida Çevlik | UI/UX & İçerik         | Tasarımlar, bilgi kartları, görev kurguları |
+| İsim                 | Rol                    | Sorumluluklar                                 |
+| -------------------- | ---------------------- | --------------------------------------------- |
+| Furkan Kaya Kılıç    | Scrum Master           | Proje yönetimi ve oyun akışı                  |
+| Mustafa Erdem Çelik  | Mobil AR Geliştirici   | React Native, ViroReact, AR bileşenleri       |
+| Gülendam Nida Çevlik | UI/UX & İçerik         | Figma tasarımı, bilgi içerikleri, animasyonlar|
 
 ---
 
-## 🔧 Teknolojiler
+## 🔧 Kullanılan Teknolojiler
 
-- **Oyun Motoru:** Unity 2023.1 LTS
-- **AR Teknolojisi:** ARKit, ARCore
-- **Backend:** Firebase (Auth, Realtime Database)
-- **3D Modelleme:** Blender, Maya
-- **UI/UX:** Figma, Adobe XD
-- **Diller:** C#, JavaScript
-- **CI/CD:** GitHub Actions
+- **Mobil Geliştirme:** React Native (Expo & bare workflow)
+- **AR Kütüphanesi:** ViroReact
+- **3D Modelleme:** Blender
+- **UI/UX:** Figma, Lottie
+- **CI/CD:** GitHub Actions + EAS Build (Expo)
 
 ---
 
 ## 🚀 Kurulum ve Geliştirme
-
 ### Gereksinimler
-
-- Unity 2023.1 veya üzeri
-- Android Studio veya Xcode
-- Git
-- Node.js (web arayüzü için)
-
-### Kurulum Adımları
-
 ```bash
 git clone https://github.com/hexdora/dunya-kasifi.git
 cd dunya-kasifi
+npm install
 ```
 
-Unity üzerinden `src/` klasörü açılır. Web arayüzü için:
+#### Android (bare workflow için):
 
 ```bash
-cd web
-npm install
-npm run dev
+npx react-native run-android
 ```
+
+#### iOS (MacOS üzerinde):
+
+```bash
+npx pod-install
+npx react-native run-ios
+```
+
 
 ---
 
-## 📅 Yol Haritası
+## 🗓️ Yol Haritası
 
-- Q1 2025: Proje Planlama & Konsept Geliştirme
-- Q2 2025: Prototipleme & UI/UX Tasarımları
-- Q3 2025: AR ve Mini Oyun Geliştirme
-- Q4 2025: Beta Test Süreci
-- Q1 2026: V1 Yayını
-- Q2 2026: Yeni Ülke Paketleri
-- Q3 2026: Çoklu Oyunculu Özellikler
+- **Q1 2025:** Proje Planlama & React Native mimarisi
+- **Q2 2025:** AR sahneleri ve temel özellikler
+- **Q3 2025:** Mini oyunlar & içerik geliştirme
+- **Q4 2025:** Test, hata düzeltme ve APK/IPA build
+- **Q1 2026:** V1.0 Yayını
+- **Q2 2026:** Ülke paketleri ve yeni görevler
+- **Q3 2026:** Çoklu oyunculu özellikler
 
 ---
 
@@ -134,6 +131,13 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ## 📞 İletişim
 
-- E-posta: iletisim@hexdora.com
-- Web Sitesi: [www.hexdora.com](https://www.hexdora.com)
-- LinkedIn: Hexdora Teknoloji
+- **E-posta:** iletisim@hexdora.com  
+- **Web Sitesi:** [www.hexdora.com](https://www.hexdora.com)  
+- **LinkedIn:** [Hexdora Teknoloji](https://linkedin.com/company/hexdora)
+
+
+
+
+
+
+
