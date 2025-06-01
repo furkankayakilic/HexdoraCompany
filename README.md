@@ -4,6 +4,13 @@
 <h2 align="center">🌐 Web Sitemiz</h2>
 
 <p align="center">
+  <a href="https://trello.com/invite/b/683ca703998b1376d7ec272b/ATTIb12737ffe6062b7d52222d0a6817cfd042C2A695/dunyakasifi" target="_blank">
+    <img src="https://img.shields.io/badge/Trello%20Tahtası-Git-blue?style=for-the-badge&logo=trello" alt="Trello Tahtası Butonu"/>
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://furkankayakilic.github.io/HexdoraCompany/" target="_blank">
     <img src="https://img.shields.io/badge/Uygulamayı%20GitHub.io%27da%20Görüntüle-Visit-blue?style=for-the-badge&logo=github" alt="GitHub.io Button"/>
   </a>
