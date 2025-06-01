@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1B4wqtivso1G28LLPJbW_bhqR7QB3Fi02/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Proje%20Tanıtım%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="Proje Sunum Videosu İzle Butonu"/>
+    <img src="https://img.shields.io/badge/Proje%20Tanıtım%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="Proje Tanıtım Videosu İzle Butonu"/>
   </a>
 </p>
 
