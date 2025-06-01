@@ -56,7 +56,7 @@ ar/
 └── tours/                       # 360° sanal tur görselleri
     └── eiffel_tower_360.jpg          # Eyfel Kulesi sanal tur resmi
 
----
+```
 
 ## 🧪 Test ve Kalite
 
