@@ -89,8 +89,8 @@
 ## 🚀 Kurulum ve Geliştirme
 ### Gereksinimler
 ```bash
-git clone https://github.com/hexdora/dunya-kasifi.git
-cd dunya-kasifi
+git clone https://github.com/furkankayakilic/HexdoraCompany.git
+cd project
 npm install
 ```
 
@@ -106,8 +106,11 @@ npx react-native run-android
 npx pod-install
 npx react-native run-ios
 ```
-
-
+```bash
+#### Expo (Expo üzerinde):
+npm install
+npx expo start
+```
 ---
 
 ## 🗓️ Yol Haritası
