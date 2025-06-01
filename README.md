@@ -9,6 +9,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1u_9bECziwtl03Q4_d8iAdnWdNuy-i-Is/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Uygulamayı%20İndir%20(APK)-Download-green?style=for-the-badge&logo=android" alt="APK Download Button"/>
+  </a>
+</p>
+
 # 🌍 Dünya Kaşifi: AR Tabanlı Eğitici Mobil Uygulama
 
 **Geliştirici:** Hexdora Teknoloji ve Yazılım A.Ş.
