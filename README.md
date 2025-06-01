@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trello.com/invite/b/683ca703998b1376d7ec272b/ATTIb12737ffe6062b7d52222d0a6817cfd042C2A695/dunyakasifi" target="_blank">
+  <a href="https://trello.com/b/ipdoKdbW/dunyakasifi" target="_blank">
     <img src="https://img.shields.io/badge/Dünya%20Kaşifi%20Trello%20Tahtası-Git-blue?style=for-the-badge&logo=trello" alt="Dünya Kaşifi Trello Tahtası Git Butonu"/>
   </a>
 </p>
