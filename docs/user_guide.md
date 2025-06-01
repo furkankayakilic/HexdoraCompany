@@ -1,121 +1,143 @@
+# Dünya Kaşifi Uygulama Kullanım Kılavuzu
 
-# 🌍 Hexdora - Dünya Kaşifi Uygulaması Kullanıcı Rehberi
-
-Bu belge, Hexdora'nın artırılmış gerçeklik tabanlı eğitici mobil oyunu **Dünya Kaşifi**'ni en iyi şekilde kullanabilmeniz için hazırlanmıştır.
-
----
-
-## 🚀 1. Uygulamayı İndirme ve Kurulum
-
-### Android için:
-- Google Play Store’a girin.
-- Arama çubuğuna "**Hexdora Dünya Kaşifi**" yazın.
-- Uygulamayı indirin ve yükleyin.
-
-### iOS için:
-- App Store’a girin.
-- "**Hexdora Dünya Kaşifi**" uygulamasını aratın.
-- İndirin ve kurulumu tamamlayın.
+Merhaba Sevgili Dünya Kaşifi! 👋 Bu kılavuz, Dünya Kaşifi uygulamasını en iyi şekilde kullanabilmen için sana yardımcı olacak. Hazır mısın? Maceraya başlayalım!
 
 ---
 
-## 👤 2. Oyuna Giriş ve Avatar Oluşturma
+## 1. Uygulamaya İlk Adım: Kaşifini Yarat!
 
-- Uygulama ilk açıldığında sizi "Kaşif Akademisi" animasyonu karşılar.
-- Kendi avatarınızı oluşturun: saç stili, göz rengi, kıyafet ve aksesuar seçin.
-- Keşif ekipmanınızı seçin: sihirli pusula, dürbün, not defteri, vs.
-- Keşif aracınızı belirleyin: sihirli halı, roket, uçak vb.
-- Kaşif yeminini ederek dijital "Kaşif Sertifikası"nı alın.
+Uygulamayı ilk açtığında, kendi kaşifini oluşturarak macerana başlayacaksın.
 
----
+### 1.1 Kaşif Karakterini Seç
 
-## 🌐 3. Harita ve Rota Sistemi
+Seni temsil edecek bir kaşif karakteri seçmelisin. Her birinin kendine özgü bir tarzı var!
 
-- 3D dünya haritası üzerinden uçuş rotanızı görüntüleyin.
-- Geçilecek ülkeleri ve durakları ikonlarla keşfedin.
-- Her durakta görev listesi, ödüller ve mini oyunlar sizi bekliyor.
+`[Görsel: Karakter Seçim Ekranı - Küçük Kaşif, Macera Perisi, Süper Kahraman, Uzay Yolcusu kartları]`
 
----
+* **1.** Favori karakterini seçmek için üzerine dokun.
+* **2.** Seçimini yaptıktan sonra, sağ alttaki **İlerle** butonuna bas.
 
-## 🎮 4. Görevler ve Mini Oyunlar
+### 1.2 Macera Aracını Belirle
 
-### Coğrafi Görevler
-- 3D harita üzerinde ülkeleri keşfedin.
-- AR ile Eyfel Kulesi, Big Ben gibi yapıları görün.
+Dünyayı keşfederken sana eşlik edecek bir araç seçme zamanı! Uçmak mı, yüzmek mi, yoksa uzaya mı gitmek istersin?
 
-### Kültürel Maceralar
-- Geleneksel kıyafetleri avatarınıza giydirin.
-- Yöresel yemekleri tanıyın, kültürel sembolleri eşleştirin.
+`[Görsel: Macera Aracı Seçim Ekranı - Sihirli Halı, Mini Uçak, Roket, Sıcak Hava Balonu kartları]`
 
-### Dil Aktiviteleri
-- Temel selamlaşma ifadelerini ve sayıları öğrenin.
-- Sesli telaffuz oyunlarıyla dili pekiştirin.
+* **1.** İstediğin araca dokunarak seç.
+* **2.** **İlerle** butonuna basıp bir sonraki adıma geç.
+* **3.** Eğer önceki sayfaya dönmek istersen, sol alttaki **Geri** butonunu kullanabilirsin.
 
-### Bulut Oyunları
-- Bulutları boyayın ve şekillendirin.
-- AR ile uçan hayvanları keşfedin.
+### 1.3 Ekipmanlarını Topla
 
-### Matematik ve Hava Durumu
-- Gökyüzü matematik sorularını çözün.
-- Hava tahmincisi oyunu ile meteorolojik bilgileri öğrenin.
+Her kaşifin yanında olmazsa olmaz ekipmanları vardır. En fazla 4 ekipman seçebilirsin!
 
----
+`[Görsel: Ekipman Seçim Ekranı - Dürbün, Sihirli Pusula, Not Defteri, Kamera, Harita, Atıştırmalık kartları]`
 
-## 🧭 5. Kaşif Pasaportu ve İlerleme
+* **1.** Seçmek istediğin ekipmanlara dokun. Seçtiğin ekipmanlar vurgulanacaktır.
+* **2.** **İlerle** butonuna basarak seçimlerini onayla.
 
-- Her ülke için damga ve dil pulu toplayın.
-- Tamamladığınız görevler pasaportta işaretlenir.
-- "Süper Kaşif" seviyesine ulaşmak için görevleri tamamlayın.
-- Kazandığınız aksesuar ve rozetleri koleksiyonunuza ekleyin.
+### 1.4 Kaşif Sertifikan Hazır!
+
+Tebrikler! Artık resmi bir Dünya Kaşifisin! Sertifikanı almak için hazır ol.
+
+`[Görsel: Kaşif Sertifikası Ekranı - Sertifika kartı ve tebrik metni]`
+
+* Bu ekran, tüm seçimlerini tamamladığında otomatik olarak açılacaktır.
+* **Maceralara Başla!** butonuna dokunarak uygulamanın ana ekranına geçiş yapabilirsin.
 
 ---
 
-## 🧒 6. Ebeveyn Özellikleri
+## 2. Ana Navigasyon: Uygulamada Gezinme
 
-- **Zaman Sınırlayıcı:** Günde belirli süre oynama imkânı.
-- **İçerik Filtreleme:** Yaşa uygun içerik kısıtlamaları.
-- **İlerleme Raporu:** Çocuğun öğrenme yolculuğunu takip edin.
+Uygulamanın alt kısmındaki menü (tab bar) ile ana ekranlar arasında kolayca geçiş yapabilirsin.
 
----
+`[Görsel: Uygulamanın altındaki menü çubuğu - Ana Sayfa, Pasaport, Rotalar, Oyunlar, Ayarlar ikonları]`
 
-## 🛑 7. Güvenlik ve Sağlık Tavsiyeleri
-
-- **Göz Sağlığı:** 20 dakikada bir ekran dinlendirme hatırlatması gelir.
-- **Doğru Oturuş:** Uygulama çocuklara doğru oturuş pozisyonlarını gösterir.
-
----
-
-## ✈️ 8. Uçuş Sonu Deneyimi
-
-- Dijital seyahat günlüğünüzü oluşturun.
-- Kazandığınız başarıları görüntüleyin.
-- Mini "Macera Sınavı" ile eğlenceli bir kapanış yapın.
-- Yeni rotalar için hedef belirleyin.
+* **Ana Sayfa** `[Görsel: Ev İkonu]`: Dünya haritasını ve keşfedilecek popüler yerleri görürsün.
+* **Pasaport** `[Görsel: Kitap İkonu]`: Kendi kaşif pasaportunu, seviyeni ve öğrendiğin dilleri takip edebilirsin.
+* **Rotalar** `[Görsel: Harita İkonu]`: Dünya haritası üzerinde yeni rotalar keşfet.
+* **Oyunlar** `[Görsel: Oyun Kolu İkonu]`: Eğlenceli ve eğitici mini oyunlar oynayabilirsin.
+* **Ayarlar** `[Görsel: Dişli İkonu]`: Uygulama ayarlarını ve bilgilerini yönetebilirsin.
 
 ---
 
-## ❓ Sıkça Sorulan Sorular (SSS)
+## 3. Dünya Haritası ve Keşif (Ana Sayfa)
 
-**S: İnternet bağlantısı gerekiyor mu?**  
-C: AR içeriklerin yüklenmesi ve ilerlemenin kaydedilmesi için internet bağlantısı önerilir.
+Burada dünyayı keşfe çıkabilirsin!
 
-**S: Oyun ne kadar süreyle oynanmalı?**  
-C: Günde 20-30 dakikalık kullanım önerilir.
+`[Görsel: Ana Sayfa - Dünya Haritası ve Popüler Yerler kartları]`
 
-**S: Veri gizliliği sağlanıyor mu?**  
-C: Evet, tüm kullanıcı verileri yalnızca uygulama içi deneyimi iyileştirmek için kullanılır ve üçüncü kişilerle paylaşılmaz.
-
----
-
-## 📞 Yardım ve Destek
-
-Eğer herhangi bir sorunla karşılaşırsanız bize ulaşabilirsiniz:
-
-📧 destek@hexdora.com  
-🌐 www.hexdora.com
+* **Haritada Pinler**: Harita üzerindeki renkli pinler, keşfedilebilecek yerleri gösterir. Dokunarak o yere odaklanabilirsin.
+* **Popüler Yerler**: Alt kısımdaki kaydırılabilir kartlardan popüler ülkeleri seçebilirsin.
+* **Keşfet Butonu**: Bir ülkenin kartında yer alan **Keşfet** butonuna basarak o ülkeye özgü bilgilere ve oyunlara ulaşabilirsin.
 
 ---
 
-**Hazırlayan:** Hexdora Ekibi  
-**Sürüm:** 1.0.0  
-**Son Güncelleme:** Nisan 2025
+## 4. Kaşif Pasaportu (Pasaport Ekranı)
+
+Senin özel kaşif pasaportun! Burada başarılarını ve ilerlemeni görebilirsin.
+
+`[Görsel: Pasaport Ekranı - Kaşif Avatarı ve Seviye/Ziyaret Bilgileri]`
+
+* **Pasaport Sekmesi**: Bu sekmede seviyeni, ziyaret ettiğin ülke sayısını ve kaşif avatarını görürsün.
+* **Rozetler Sekmesi**: Kazandığın tüm rozetleri bu sekmede takip edebilirsin.
+    `[Görsel: Rozetler Sekmesi İkonu]`
+* **Diller Sekmesi**: Öğrendiğin temel ifadeleri ve yeni dilleri bu sekmede keşfedebilirsin.
+    `[Görsel: Diller Sekmesi İkonu]`
+    * Bir dilin üzerine dokunarak o dildeki ifadeleri görebilirsin.
+    * Kilitli ifadeler, belirli görevleri tamamladığında açılacaktır.
+        `[Görsel: Dil İfadeleri Listesi - Kilitli ve Kilitli Olmayan İfadeler]`
+
+---
+
+## 5. Eğitici Oyunlar (Oyunlar Ekranı)
+
+Hem eğlen hem öğren! Farklı mini oyunlarla bilgilerini pekiştir.
+
+### 5.1 Ülke Bilgi Yarışması
+
+Ülkeler hakkındaki bilgilerini test et!
+
+`[Görsel: Ülke Bilgi Yarışması Ekranı - Soru ve Cevap Seçenekleri]`
+
+* **1.** Soruyu oku ve bayrağa bak.
+* **2.** Doğru olduğunu düşündüğün cevaba dokun.
+* **3.** Üstteki **Kapat** butonuna basarak oyundan çıkabilirsin.
+
+### 5.2 Bulut Boyama
+
+Yaratıcılığını konuştur ve bulutları dilediğin renge boya!
+
+`[Görsel: Bulut Boyama Ekranı - Bulut ve Renk Paleti]`
+
+* **1.** Alt kısımdaki renk paletinden bir renk seç.
+* **2.** Parmağını bulut üzerinde gezdirerek boya.
+* **3.** Sağ alttaki geri alma `[Görsel: Geri Al İkonu]` ve silgi `[Görsel: Silgi İkonu]` ikonlarını kullanarak hatalarını düzeltebilirsin.
+
+### 5.3 Matematik Macerası
+
+Matematik becerilerini geliştir!
+
+`[Görsel: Matematik Macerası Ekranı - Matematik İşlemi ve Cevap Seçenekleri]`
+
+* **1.** Üstteki matematik işlemini çöz.
+* **2.** Altındaki seçeneklerden doğru cevabı bul ve dokun.
+* **3.** Puanını ekranın üst kısmında takip edebilirsin.
+
+---
+
+## 6. Ayarlar Ekranı
+
+Uygulama ile ilgili genel bilgilere ve ayarlara buradan ulaşabilirsin.
+
+`[Görsel: Ayarlar Ekranı - Ayarlar listesi]`
+
+* Buradan dil ayarları, bildirimler veya hakkımızda gibi bilgilere erişebilirsin. (Detayları görselde belirtilmemiş)
+
+---
+
+## Yardım ve Destek
+
+Uygulama hakkında başka soruların olursa veya yardıma ihtiyacın olursa, Ayarlar ekranından destek seçeneklerini kontrol edebilirsin.
+
+İyi keşifler dileriz! 🚀
