@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1gqW2ci1CYsE7W8H2byNWaPG6gOTaDyBf/view?t=12" target="_blank">
+  <a href="https://drive.google.com/file/d/1gqW2ci1CYsE7W8H2byNWaPG6gOTaDyBf/view?t=6" target="_blank">
     <img src="https://img.shields.io/badge/APK%20Kurulum%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="APK Kurulum Videosu İzle Butonu"/>
   </a>
 </p>
