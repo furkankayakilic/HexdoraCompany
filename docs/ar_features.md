@@ -1,4 +1,3 @@
-
 # 🧭 AR Özellikleri (Artırılmış Gerçeklik)
 
 Bu belge, *Dünya Kaşifi* projesinde kullanılan Artırılmış Gerçeklik (AR) modüllerinin yapısını, kullanım senaryolarını ve teknik detaylarını açıklar. Amaç, geliştiricilerin ve tasarımcıların AR deneyimlerini projeye entegre etmesini kolaylaştırmaktır.
@@ -31,55 +30,55 @@ AR modülleri ile çocukların öğrenme deneyimi daha **etkileşimli**, **görs
 
 ## ⚙️ Teknik Gereksinimler
 
-| Özellik | Açıklama |
-|--------|----------|
-| Platform | Unity 3D (AR Foundation) veya WebAR teknolojileri |
-| Destek | Android / iOS / Web |
-| Gerekli Donanım | Mobil cihaz kamerası, tercihen ARCore / ARKit desteği |
-| Format | 3D modeller `.glb` veya `.usdz` formatında |
-| SDK | AR Foundation (Unity), 8thWall (Web), Zappar veya Vuforia |
+| Özellik         | Açıklama                                       |
+|----------------|------------------------------------------------|
+| Platform        | React Native (ViroReact)                       |
+| Destek          | Android / iOS                                  |
+| Donanım         | Mobil cihaz kamerası, tercihen ARCore / ARKit |
+| 3D Model Format | `.glb`, `.usdz`                                |
+| SDK / Kütüphane | ViroReact, Zappar, 8thWall                    |
 
 ---
 
 ## 📂 Dosya Yapısı Örneği
 
-```
+AR modüllerinin organize edilmesi için önerilen dizin yapısı:
+
+```plaintext
 ar/
-├── models/
+├── models/                      # 3D model dosyaları (ülkelere göre gruplanmış)
 │   ├── turkey/
-│   │   └── whirling_dervish.glb
+│   │   └── whirling_dervish.glb      # Türkiye için semazen modeli
 │   └── japan/
-│       └── kimono_model.glb
-├── maps/
-│   └── world_map.arproject
-└── tours/
-    └── eiffel_tower_360.jpg
-```
+│       └── kimono_model.glb          # Japonya için kimono modeli
+├── maps/                        # AR tabanlı etkileşimli haritalar
+│   └── world_map.viro.json           # 3D dünya haritası JSON tanımı
+└── tours/                       # 360° sanal tur görselleri
+    └── eiffel_tower_360.jpg          # Eyfel Kulesi sanal tur resmi
 
 ---
 
 ## 🧪 Test ve Kalite
 
-- Her model kullanım öncesinde düşük poligonlu, mobil cihaz uyumlu olmalı
-- Gölgeleme, ışık ve animasyonlar performans dostu ayarlanmalı
-- Kullanıcı AR başlatma deneyiminde basit arayüz ile yönlendirilmeli
+- Her model düşük poligonlu ve mobil uyumlu olmalıdır.
+- Işıklandırma, gölgeleme ve animasyonlar performansa uygun şekilde optimize edilmelidir.
+- AR başlatma arayüzü kullanıcı dostu olmalı, çocuklara rehberlik etmelidir.
 
 ---
 
-## 🔄 Entegrasyon Adımları (Unity için)
+## 🔄 Entegrasyon Adımları (React Native için)
 
-1. AR Foundation kurulumu
-2. Cihaz uyumluluk ayarları
-3. Model import işlemi
-4. Model üzeri bilgi kutuları ve animasyonlar
-5. Test ve yayınlama
+1. React Native ortamının hazırlanması  
+2. `react-viro` veya `@viro-community/react-viro` kurulumu  
+3. 3D model (.glb) yükleme ve sahne yerleşimi  
+4. Etkileşimli AR bileşenlerinin eklenmesi  
+5. Cihaz testleri ve APK/IPA üretimi  
 
 ---
 
 ## 🔧 Notlar
 
-- Gelecekte WebAR sürümü planlanmaktadır.
-- Model kaynakları açık lisanslı olmalıdır.
-- AR içerikleri isteğe göre açılıp kapanabilir olmalıdır (ebeveyn kontrolü).
+- WebAR desteği ileride eklenecektir.
+- Tüm 3D içerikler açık lisanslı kaynaklardan alınmalıdır.
+- AR içeriklerine ebeveyn kontrolü ile erişim sınırlaması getirilebilir.
 
----
