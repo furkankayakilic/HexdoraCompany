@@ -144,14 +144,14 @@ Ayarlar menüsünden yardım ve destek seçeneklerine ulaşabilirsin.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-  <img src="docs/projectImages/avatarSelection.jpeg" alt="Ekran 1" style="width: 30%; border-radius: 8px;" />
-  <img src="docs/projectImages/equipmentSelection.jpeg" alt="Ekran 2" style="width: 30%; border-radius: 8px;" />
-  <img src="docs/projectImages/vehicleSelection.jpeg" alt="Ekran 3" style="width: 30%; border-radius: 8px;" />
+  <img src="screenshots/avatarSelection.jpeg" alt="Ekran 1" style="width: 30%; border-radius: 8px;" />
+  <img src="screenshots/equipmentSelection.jpeg" alt="Ekran 2" style="width: 30%; border-radius: 8px;" />
+  <img src="screenshots/vehicleSelection.jpeg" alt="Ekran 3" style="width: 30%; border-radius: 8px;" />
 
 
-  <img src="docs/projectImages/routesMissions.jpeg" alt="Ekran 4" style="width: 30%; border-radius: 8px;" />
-  <img src="docs/projectImages/languageGame.jpeg" alt="Ekran 5" style="width: 30%; border-radius: 8px;" />
-  <img src="docs/projectImages/ARCameraIntegration.jpeg" alt="Ekran 6" style="width: 30%; border-radius: 8px;" />
+  <img src="screenshots/routesMissions.jpeg" alt="Ekran 4" style="width: 30%; border-radius: 8px;" />
+  <img src="screenshots/languageGame.jpeg" alt="Ekran 5" style="width: 30%; border-radius: 8px;" />
+  <img src="screenshots/ARCameraIntegration.jpeg" alt="Ekran 6" style="width: 30%; border-radius: 8px;" />
 
 </div>
 
