@@ -1,4 +1,4 @@
-# 📲 INSTALLATION.md – Dünya Kaşifi Uygulaması Kurulum Rehberi
+# 📲 Dünya Kaşifi Uygulaması Kurulum Rehberi
 
 Bu belge, *Dünya Kaşifi* mobil uygulamasının kurulumu, çalıştırılması ve olası sorunların çözümü için hazırlanmıştır.
 
@@ -50,16 +50,6 @@ npx expo start
 
 ---
 
-## 📦 APK Kurulumu (Kullanıcı Modu)
-
-> Eğer `.apk` dosyasını doğrudan yüklemek istiyorsanız:
-
-1. `release/app-release.apk` dosyasını Android cihazınıza aktarın.  
-2. Cihazda "Bilinmeyen kaynaklardan yüklemeye izin ver" ayarını aktif edin.  
-3. Dosyaya dokunarak kurulumu başlatın.
-
----
-
 ## 🛠️ Troubleshooting (Sorun Giderme)
 
 ### ⚠️ Expo CLI Hatası: `command not found`
@@ -69,18 +59,6 @@ npx expo start
 ```bash
 npm install -g expo-cli
 ```
-
----
-
-### ⚠️ "App not installed" Hatası (APK)
-
-**Çözüm:**
-
-- Cihaz sürümünüz Android 8.0 ve üzeri mi kontrol edin.  
-- Önceki bir sürüm yüklüyse kaldırıp tekrar deneyin.  
-- `release` imzası eksikse, manuel imzalama gerekebilir.
-
----
 
 ### ⚠️ Kamera veya AR Çalışmıyor
 
