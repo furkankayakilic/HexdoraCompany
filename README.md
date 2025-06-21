@@ -52,67 +52,11 @@
 
 **Dünya Kaşifi**, React Native ile geliştirilmiş, çocukların dünya üzerindeki kültürleri, dilleri ve yapıları artırılmış gerçeklik (AR) ile keşfetmesini sağlayan eğitici bir mobil oyun uygulamasıdır.
 
----
+## Projenin Amacı
 
-## 🌍 Uygulama Platformları
-
-- **Android:** Android 7.0+ (ARCore destekli)
-- **iOS:** iOS 11+ (ARKit destekli)
-
-> ⚠️ Uygulama, cihazın AR desteği olması koşuluyla sorunsuz çalışır. Destek için: [https://developers.google.com/ar/devices](https://developers.google.com/ar/devices)
+Bu proje; çocuklara dünya kültürlerini AR ile eğlenceli biçimde tanıtmayı, mini oyunlarla bilişsel gelişimlerini desteklemeyi, onları teknolojiyle tanıştırmayı ve ebeveynlere güvenli, eğitici bir öğrenme ortamı sunmayı amaçlamaktadır.
 
 ---
-
-## ⭐ Öne Çıkan Özellikler
-
-### 🧠 Artırılmış Gerçeklik Deneyimleri (ViroReact)
-
-- 3D dünya haritası ve ülke simgeleri
-- Ünlü yapılar: Eyfel Kulesi, Big Ben, Özgürlük Heykeli
-- Kamera üzerinden etkileşimli AR görevler
-
-### 🎭 Avatar ve Kişiselleştirme
-
-- Kaşif karakter oluşturma
-- Sihirli araçlar: Pusula, dürbün, tercüman
-
-### 🎮 Eğitici Mini Oyunlar
-
-- Dil öğrenme: Sesli kartlar, temel kelimeler
-- Bilgi yarışması: Ülke kültürleriyle ilgili sorular
-- Boyama: Dijital boyama deneyimi
-- Matematik oyunları: Temel işlemler ve eğlenceli sorular
-
-### 🗺️ Oyun Akışı
-
-1. **Kaşif Akademisi**: Profil, avatar, araç seçimi
-2. **Uçuş Haritası**: 3D dünya üzerinde ülke seçimi
-3. **Görev Sistemi**: Kültürel & dil tabanlı görevler
-4. **AR Etkileşimleri**: Kamera üstünden görev deneyimi
-5. **Kaşif Pasaportu**: Ülke mühürleri ve ödüller
-
----
-
-## 🧑‍💻 Geliştirici Ekip (Hexdora)
-
-| İsim                 | Rol                    | Sorumluluklar                                 |
-| -------------------- | ---------------------- | --------------------------------------------- |
-| Furkan Kaya Kılıç    | Scrum Master           | Proje yönetimi ve oyun akışı                  |
-| Mustafa Erdem Çelik  | Mobil AR Geliştirici   | React Native, ViroReact, AR bileşenleri       |
-| Gülendam Nida Çevlik | UI/UX & İçerik         | Figma tasarımı, bilgi içerikleri, animasyonlar|
-
----
-
-## 🔧 Kullanılan Teknolojiler
-
-- **Mobil Geliştirme:** React Native (Expo & bare workflow)
-- **AR Kütüphanesi:** ViroReact
-- **3D Modelleme:** Blender
-- **UI/UX:** Figma, Lottie
-- **CI/CD:** GitHub Actions + EAS Build (Expo)
-
----
-
 ## 🚀 Kurulum ve Geliştirme
 ### Gereksinimler
 ```bash
@@ -140,17 +84,97 @@ npx expo start
 ```
 ---
 
-## 🗓️ Yol Haritası
+## 🌍 Uygulama Platformları
 
-- **Q1 2025:** Proje Planlama & React Native mimarisi
-- **Q2 2025:** AR sahneleri ve temel özellikler
-- **Q3 2025:** Mini oyunlar & içerik geliştirme
-- **Q4 2025:** Test, hata düzeltme ve APK/IPA build
-- **Q1 2026:** V1.0 Yayını
-- **Q2 2026:** Ülke paketleri ve yeni görevler
-- **Q3 2026:** Çoklu oyunculu özellikler
+- **Android:** Android 7.0+ (ARCore destekli)
+- **iOS:** iOS 11+ (ARKit destekli)
+
+> ⚠️ Uygulama, cihazın AR desteği olması koşuluyla sorunsuz çalışır. Destek için: [https://developers.google.com/ar/devices](https://developers.google.com/ar/devices)
 
 ---
+
+## Kullanım Talimatları
+
+🗺️ Dünya Kaşifi - Kısa Kullanım Kılavuzu 🚀
+🔹 1. Uygulamaya Başlangıç
+Uygulamayı aç ve karakterini seç.
+
+Bir macera aracı (ör. roket, sihirli halı) belirle.
+
+En fazla 4 adet ekipman seç (dürbün, not defteri vb.).
+
+Seçimlerini tamamla ve Kaşif Sertifikanı al.
+
+🔹 2. Ana Ekran ve Gezinme
+Ana Sayfa 🏠: Dünya haritasını gör, ülkeleri keşfet.
+
+Pasaport 📕: Seviyeni, rozetlerini ve öğrendiğin dilleri takip et.
+
+Rotalar 📍: Yeni keşif rotalarını incele.
+
+Oyunlar 🎮: Eğlenceli mini oyunlarla öğren.
+
+Ayarlar ⚙️: Dil, bildirim ve yardım seçeneklerini düzenle.
+
+🔹 3. Temel Özellikler
+AR Keşif: Harita üzerindeki ülkelere dokunarak artırılmış gerçeklik içeriklerini görüntüle.
+
+Mini Oyunlar: Ülke bilgisi, boyama ve matematik oyunlarıyla öğrenmeyi eğlenceli hale getir.
+
+Pasaport Sistemi: Rozet ve seviye takibi, öğrendiğin dillerin listesi.
+
+Çocuk Dostu Tasarım: Basit menüler, sesli anlatımlar, etkileşimli içerikler.
+
+❓ Yardım İçin
+Ayarlar menüsünden yardım ve destek seçeneklerine ulaşabilirsin.
+
+🎉 Hazırsan, dünyayı keşfetmeye başla Kaşif! 🌍✨
+
+---
+## ⭐ Öne Çıkan Özellikler
+
+### 🧠 Artırılmış Gerçeklik Deneyimleri (ViroReact)
+
+- 3D dünya haritası ve ülke simgeleri
+- Ünlü yapılar: Eyfel Kulesi, Big Ben, Özgürlük Heykeli
+- Kamera üzerinden etkileşimli AR görevler
+
+---
+## Uygulama Ekran Görüntüleri
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="./projectImages/avatarSelection.jpeg" alt="Ekran 1" style="width: 30%; border-radius: 8px;" />
+  <img src="./projectImages/equipmentSelection.jpeg" alt="Ekran 2" style="width: 30%; border-radius: 8px;" />
+  <img src="./projectImages/vehicleSelection.jpeg" alt="Ekran 3" style="width: 30%; border-radius: 8px;" />
+
+
+  <img src="./projectImages/routesMissions.jpeg" alt="Ekran 4" style="width: 30%; border-radius: 8px;" />
+  <img src="./projectImages/languageGame.jpeg" alt="Ekran 5" style="width: 30%; border-radius: 8px;" />
+  <img src="./projectImages/ARCameraIntegration.jpeg" alt="Ekran 6" style="width: 30%; border-radius: 8px;" />
+
+</div>
+
+## 🧑‍💻 Geliştirici Ekip (Hexdora)
+
+| İsim                 | Rol                    | Sorumluluklar                                 |
+| -------------------- | ---------------------- | --------------------------------------------- |
+| Furkan Kaya Kılıç    | Scrum Master           | Proje yönetimi ve oyun akışı                  |
+| Mustafa Erdem Çelik  | Mobil AR Geliştirici   | React Native, ViroReact, AR bileşenleri       |
+| Gülendam Nida Çevlik | UI/UX & İçerik         | Figma tasarımı, bilgi içerikleri, animasyonlar|
+
+---
+
+## 🔧 Kullanılan Teknolojiler
+
+- **Mobil Geliştirme:** React Native (Expo & bare workflow)
+- **AR Kütüphanesi:** ViroReact
+- **3D Modelleme:** Blender
+- **UI/UX:** Figma, Lottie
+- **CI/CD:** GitHub Actions + EAS Build (Expo)
+
+---
+
 
 ## 📄 Lisans
 
