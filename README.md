@@ -96,7 +96,7 @@ npx expo start
 ## Kullanım Talimatları
 
 🗺️ Dünya Kaşifi - Kısa Kullanım Kılavuzu 🚀
-🔹 1. Uygulamaya Başlangıç
+## 1. Uygulamaya Başlangıç
 Uygulamayı aç ve karakterini seç.
 
 Bir macera aracı (ör. roket, sihirli halı) belirle.
@@ -105,7 +105,7 @@ En fazla 4 adet ekipman seç (dürbün, not defteri vb.).
 
 Seçimlerini tamamla ve Kaşif Sertifikanı al.
 
-🔹 2. Ana Ekran ve Gezinme
+## 2. Ana Ekran ve Gezinme
 Ana Sayfa 🏠: Dünya haritasını gör, ülkeleri keşfet.
 
 Pasaport 📕: Seviyeni, rozetlerini ve öğrendiğin dilleri takip et.
@@ -116,7 +116,7 @@ Oyunlar 🎮: Eğlenceli mini oyunlarla öğren.
 
 Ayarlar ⚙️: Dil, bildirim ve yardım seçeneklerini düzenle.
 
-🔹 3. Temel Özellikler
+## 3. Temel Özellikler
 AR Keşif: Harita üzerindeki ülkelere dokunarak artırılmış gerçeklik içeriklerini görüntüle.
 
 Mini Oyunlar: Ülke bilgisi, boyama ve matematik oyunlarıyla öğrenmeyi eğlenceli hale getir.
@@ -125,7 +125,7 @@ Pasaport Sistemi: Rozet ve seviye takibi, öğrendiğin dillerin listesi.
 
 Çocuk Dostu Tasarım: Basit menüler, sesli anlatımlar, etkileşimli içerikler.
 
-❓ Yardım İçin
+## ❓ Yardım İçin
 Ayarlar menüsünden yardım ve destek seçeneklerine ulaşabilirsin.
 
 🎉 Hazırsan, dünyayı keşfetmeye başla Kaşif! 🌍✨
