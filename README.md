@@ -23,19 +23,31 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1gqW2ci1CYsE7W8H2byNWaPG6gOTaDyBf/view?t=6" target="_blank">
-    <img src="https://img.shields.io/badge/APK%20Kurulum%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="APK Kurulum Videosu İzle Butonu"/>
+    <img src="https://img.shields.io/badge/APK%20Kurulum%20Videosu-(Drive)-blue?style=for-the-badge&logo=googledrive" alt="APK Kurulum Videosu Drive"/>
+  </a>
+  &nbsp;
+  <a href="https://youtu.be/0mrRits8shk?si=vHe6a7IssVp48SLC" target="_blank">
+    <img src="https://img.shields.io/badge/APK%20Kurulum%20Videosu-(YouTube)-red?style=for-the-badge&logo=youtube" alt="APK Kurulum Videosu YouTube"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1XuCgOhzqyGCu2tDhQYn1n7Tci7isBWuY/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Uygulama%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="Uygulama Videosu İzle Butonu"/>
+    <img src="https://img.shields.io/badge/Uygulama%20Videosu-(Drive)-blue?style=for-the-badge&logo=googledrive" alt="Uygulama Videosu Drive"/>
+  </a>
+  &nbsp;
+  <a href="https://youtu.be/bVv5wTcPDcA?si=U2tIrPYGXYTVNyZ4" target="_blank">
+    <img src="https://img.shields.io/badge/Uygulama%20Videosu-(YouTube)-red?style=for-the-badge&logo=youtube" alt="Uygulama Videosu YouTube"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1B4wqtivso1G28LLPJbW_bhqR7QB3Fi02/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Proje%20Tanıtım%20Videosu-İzle-blue?style=for-the-badge&logo=googledrive" alt="Proje Tanıtım Videosu İzle Butonu"/>
+    <img src="https://img.shields.io/badge/Proje%20Tanıtım%20Videosu-(Drive)-blue?style=for-the-badge&logo=googledrive" alt="Proje Tanıtım Videosu Drive"/>
+  </a>
+  &nbsp;
+  <a href="https://youtu.be/TWN1beUF0B0?si=ttIKMADNmcw53HsM" target="_blank">
+    <img src="https://img.shields.io/badge/Proje%20Tanıtım%20Videosu-(YouTube)-red?style=for-the-badge&logo=youtube" alt="Proje Tanıtım Videosu YouTube"/>
   </a>
 </p>
 
